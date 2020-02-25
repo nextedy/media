@@ -10,6 +10,9 @@ Your purchase entitles you to **perpetual use** of the software
 
 It includes **12 months of software support** & maintenance. 
 
+The *{{product.name}}* pricing is based on **size** of the Polarion deployment, the more users are on the server, the bigger is a price.  We count all active users on the Polarion server. An active **user is** by definition any user account in the Polarion system with the global role  *"User"*, i.e., **anyone who can log in** to Polarion portal.
+
+
 <center>
 
 **Number of users**  	| **Price**

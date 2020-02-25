@@ -1,5 +1,7 @@
 
-# Nextedy CHECKLIST
+# Nextedy MEDIA
+
+<a href="https://nextedy.github.io/media/download/nextedy-media.zip">Download</a>
 
 Extend your Polarion Work Items with **action-able checklists** and stay clear on what needs to be done to satisfy your **workflow** process.
 
