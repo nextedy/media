@@ -1,0 +1,72 @@
+site_name: Nextedy CHECKLIST
+site_description: 'Extend your Work Items with an action able checklist items and stay clear on what still needs to be done to satisfy your workflow process.'
+site_author: Nextedy
+site_url: https://checklist.nextedy.com
+site_GTM_ID: GTM-PMZ3VRL
+site_HS_ID: 6265870
+
+nav:
+    - Home: index.md
+    - Download: download.md
+    - Pricing: pricing.md 
+    - Support: support.md 
+    - News: news.md
+    - About us: about.md
+
+theme:
+  name: 'material'
+  font: false
+  palette:
+    primary: 'black'
+    accent: 'purple'
+  favicon: img/favicon.png
+  custom_dir: 'theme'
+  logo: 'https://www.nextedy.com/wp-content/uploads/2018/10/nextedy-logo.png'
+
+extra_css:
+  - 'extra/extra.css'
+  - 'extra/simpleLightbox.min.css'
+  - 'extra/semantic/dist/semantic.min.css'
+  
+extra_javascript:
+  - 'extra/extra.js'
+  - 'extra/simpleLightbox.min.js'
+  - 'extra/jquery-3.1.1.min.js'  
+  - 'extra/semantic/dist/semantic.min.js'  
+  
+extra:
+  product:
+     name: Nextedy CHECKLIST
+     url: https://checklist.nextedy.com 
+     requirements: Polarion 18.1 and newer   
+  support:
+     solution: 48000449721
+     installGuide: https://nextedy.freshdesk.com/support/solutions/articles/48000981742-nextedy-checklist-installation-guide
+  hs:
+     id: 6265870
+     quoteFormId: db9a4e80-c3a7-47a5-9487-066379312fe7
+     downloadFormId: cdcc52f5-bf59-436e-a173-918beb67a111
+  other1:
+     name: Nextedy GANTT
+     url: https://gantt.nextedy.com
+     image: https://gantt.nextedy.com/img/resource-panel.png
+     description: The first interactive high-level project planning & scheduling in Polarion ALM.
+  other2:
+     name: Nextedy WORKSHEET
+     url: https://worksheet.nextedy.com
+     image: https://worksheet.nextedy.com/img/worksheet-all-thumb.png
+     description: Interactive Work Tracking and Team Assignments for Polarion ALM.
+  
+markdown_extensions:
+  - admonition
+  - codehilite
+  - meta
+  - tables
+  - attr_list
+
+plugins:
+    - search
+    - markdownextradata: {}  
+  
+copyright: 'Copyright &copy; 2020 Nextedy Systems'
+  
