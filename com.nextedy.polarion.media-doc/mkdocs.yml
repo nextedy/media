@@ -1,5 +1,5 @@
-site_name: Nextedy MEDIA
-site_description: 'Extend your Work Items with an action able checklist items and stay clear on what still needs to be done to satisfy your workflow process.'
+site_name: Nextedy MEDIAKIT
+site_description: 'Attach, preview and download the Polarion Work Item attachments as you dreamed from the first day.'
 site_author: Nextedy
 site_url: https://nextedy.github.io/media/
 site_GTM_ID: GTM-PMZ3VRL
@@ -7,11 +7,6 @@ site_HS_ID: 6265870
 
 nav:
     - Home: index.md
-    - Download: download.md
-    - Pricing: pricing.md 
-    - Support: support.md 
-    - News: news.md
-    - About us: about.md
 
 theme:
   name: 'material'
@@ -36,8 +31,8 @@ extra_javascript:
   
 extra:
   product:
-     name: Nextedy CHECKLIST
-     url: https://checklist.nextedy.com 
+     name: Nextedy MEDIA
+     url: https://nextedy.github.io/media/
      requirements: Polarion 18.1 and newer   
   support:
      solution: 48000449721

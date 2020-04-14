@@ -3,30 +3,19 @@
 
 ## 1. How much does the "{{product.name}}" license cost?
 
-No haggle  - Our pricing is simple, fair and transparent.
+<div style="
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 10px;
+    background-color: #d6d6d6;
+    margin: 40px;
+"> Flat price: EUR 99 per server per year! </div>
 
-Your purchase entitles you to **perpetual use** of the software 
-(pay once and use a program indefinitely).
-
-It includes **12 months of software support** & maintenance. 
-
-The *{{product.name}}* pricing is based on **size** of the Polarion deployment, the more users are on the server, the bigger is a price.  We count all active users on the Polarion server. An active **user is** by definition any user account in the Polarion system with the global role  *"User"*, i.e., **anyone who can log in** to Polarion portal.
-
-
-<center>
-
-**Number of users**  	| **Price**
-------------------- 	| -------------
-1-10 users			|  245 EUR		
-11-25 users			|  460 EUR
-26-50 users			|  690 EUR	
-51-100 users			| 1040 EUR		
-101-250 users		| 1950 EUR
-251-500 users		| 2930 EUR
-501-1000 users		| 3700 EUR	
-1001-2500 users		| 4500 EUR	
-2501+ users			| 5000 EUR
-
+* Support and Maintenance included in the subscription
+* Paid annually 
+* No user limit
+* Evaluation license available
 
 <br/>
 <a href="#getquote">
@@ -49,7 +38,7 @@ We maintain the plugins for big number of Polarion customers, with  <b>Support &
 
 ## 2. What is covered by Support & Maintenance?
 
-Software Support & Maintenance, included in first 12 months from the date of purchase, covers the following benefits:
+Software Support & Maintenance covers the following benefits:
 
 * Critical **bug fixes**
 * Update to **new versions** of the SW and benefit from new features & enhancements
@@ -57,35 +46,25 @@ Software Support & Maintenance, included in first 12 months from the date of pur
 * **Staging server** license key (to be requested separately)
 * Optional participation in **Early Access Programs**
 
-While renewing your software maintenance annually is optional, it is strongly encouraged in order to ensure continuous access to all of the benefits listed above. 
-
-## 3. How much is it to renew support & maintenance contract?
-
-Subsequent maintenance price is **30%** of base perpetual license price. 
-
-We automatically send a no-obligation quote 90 days before the maintenance is to expire on a license.
-
-Software maintenance renewals commence from the expiration of your active maintenance period, regardless of when the maintenance renewal is purchased. If you intend to renew, we recommend renewing at least 30 days before expiration.
 
 
-## 4. What are the license terms?
+
+
+## 3. What are the license terms?
 A valid commercial license entitles you to:
 
 * Install *{{product.name}}* Software on a single instance in a production environment on **1 Polarion server** (including load balanced clustered server)
-* **Perpetual (time unlimited)** use of *{{product.name}}* Software
-* Benefit from Software Support & Maintenance for 12 months - including all updates and online support
-
-Licensing fees are quoted per number of 'active users.' An active **user is** by definition any user account in the Polarion system with the global role  *"User"*, i.e., **anyone who can log in** to Polarion portal.
+* Benefit from Software Support & Maintenance - including all updates and online support
 
 Detailed conditions available [here]({{product.url}}/download/LICENSE.pdf).
 
-## 5. Is there trial license available 
+## 4. Is there trial license available 
 
 The evaluation license is included in the distribution. You can download the product and **evaluate** it free of charge for **30 days**.
 
 <a name="getquote">&nbsp;</a>
 
-## 6. How do I purchase a license?
+## 5. How do I purchase a license?
 
 Start by requesting a no-obligation quote valid for next 30 days:
 
